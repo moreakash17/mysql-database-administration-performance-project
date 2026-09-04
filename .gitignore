@@ -1,0 +1,13 @@
+# MySQL dumps / local backups
+*.sql.bak
+*.dump
+*.backup
+
+# Local environment files
+.env
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
